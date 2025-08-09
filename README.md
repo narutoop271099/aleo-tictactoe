@@ -8,7 +8,7 @@ A standard game of Tic-Tac-Toe in Leo.
 
 ➖ ➕ ➖ ➕ ➖
 
-⭕ ❕ ⁣❌ ❕ ⭕
+⭕ ❕ ⁣❌ ❕ 0 fix 0 and o problem 
 
 ➖ ➕ ➖ ➕ ➖
 
